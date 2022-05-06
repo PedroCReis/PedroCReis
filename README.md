@@ -16,8 +16,8 @@ Olá, sou o Pedro Reis 👋
   <img align="center" alt="Pedro-Vue" height="30" width="40" src= https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-Java" height="30" width="40" src= https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
+  
+ 
 </div>
   
   ##
