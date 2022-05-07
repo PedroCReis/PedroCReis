@@ -16,7 +16,9 @@ Olá, sou o Pedro Reis 👋
   <img align="center" alt="Pedro-Vue" height="30" width="40" src= https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-React.js" height="30" width="40"src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FReactJsDevs%2F&psig=AOvVaw1SPnSxoOvHn7WjfS9nqWv&ust=1651983744828000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCi85TFzPcCFQAAAAAdAAAAABAD">  
+   
+
+
  
 </div>
   
